@@ -36,7 +36,7 @@ Stores order details in PostgreSQL
 Handles checkout process
 Maintains order history
 Data Flow
-
+```
 User Voice Command
   ↓
 Houndify Service (Speech-to-Text)
@@ -48,4 +48,5 @@ API Service/Order Service
 Express Backend
   ↓
 PostgreSQL Database
+```
 The application provides a modern, hands-free way to order KFC items, similar to a real drive-through experience but through a web interface.

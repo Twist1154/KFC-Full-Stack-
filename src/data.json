@@ -1,0 +1,218 @@
+[
+  {
+    "item_id": 1,
+    "item_name": "9-Piece Bucket",
+    "category": "Chicken Bucket",
+    "description": "9 pieces of chicken",
+    "estimated_price": 149.90,
+    "currency": "ZAR",
+    "image_url": "https://images.ctfassets.net/0p42pznmbeec/2TYIAhE5xYVXWEeVQLMZyV/0560abe28b1c3daecf72f4cb2048e254/Easter_Buckets_9pc_1200x900.jpg?h=600&w=800&fm=webp&fit=fill"
+  },
+  {
+    "item_id": 2,
+    "item_name": "15-Piece Bucket",
+    "category": "Chicken Bucket",
+    "description": "15 pieces of chicken",
+    "estimated_price": 234.90,
+    "currency": "ZAR",
+    "image_url": "https://images.ctfassets.net/0p42pznmbeec/r0PGT8K7Sm3Ym7vKmnBEL/a7a84243d80e6f7c48f5e0bb53a42cd7/Easter_Buckets_15pc_1200x900.jpg?h=600&w=800&fm=webp&fit=fill"
+  },
+  {
+    "item_id": 3,
+    "item_name": "21-Piece Bucket",
+    "category": "Chicken Bucket",
+    "description": "21 pieces of chicken",
+    "estimated_price": 299.90,
+    "currency": "ZAR",
+    "image_url": "https://images.ctfassets.net/0p42pznmbeec/3cPFvFK3Ftwn1meLu0ysoX/a85388561acb89fc24ed8d7eb8ec696b/Easter_Buckets_21pc_1200x900.jpg?h=600&w=800&fm=webp&fit=fill"
+  },
+  {
+    "item_id": 6,
+    "item_name": "Streetwise Two with chips",
+    "category": "Chicken",
+    "description": "Two pieces of chicken + small chips",
+    "estimated_price": 39.90,
+    "currency": "ZAR",
+    "image_url": "https://images.ctfassets.net/0p42pznmbeec/4xCDFxEpvYbPkyB8vsotgJ/9d4cf3f5b6d045b4eafeec3e8528b3d3/Streetwise_2_1200x900.jpg?h=600&w=800&fm=webp&fit=fill"
+  },
+  {
+    "item_id": 7,
+    "item_name": "Streetwise Three With Chips",
+    "category": "Chicken",
+    "description": "Three pieces of chicken + small chips",
+    "estimated_price": 60.90,
+    "currency": "ZAR",
+    "image_url": "https://images.ctfassets.net/0p42pznmbeec/6E89BRjRWj7A5bNR7AFdhV/d7a782a7f705c67504b5d37a2956d743/Streetwise_3_1200x900.jpg?h=600&w=800&fm=webp&fit=fill"
+  },
+  {
+    "item_id": 10,
+    "item_name": "Dunked Crunch Burger",
+    "category": "Burgers",
+    "description": "Enjoy the Dunked Crunch burger with our signature honey ginger soy sauce, crispy chicken mini fillet and cheese on a bed of fresh lettuce",
+    "estimated_price": 34.90,
+    "currency": "ZAR",
+    "image_url": "https://images.ctfassets.net/0p42pznmbeec/128vByhXBLiOedlRUeONtI/52eb68b9c7b30642de4c8ac7e5b54042/Dunked_Crunch_Burger_1200x900.jpg?h=900&w=1200&fm=webp&fit=fill"
+  },
+  {
+    "item_id": 16,
+    "item_name": "Chips (Small)",
+    "category": "Sides",
+    "description": "Standard fried potatoes (small)",
+    "estimated_price": 14.90,
+    "currency": "ZAR",
+    "image_url": "https://images.ctfassets.net/0p42pznmbeec/4J7RauzcyD6KkQu9Qhpp28/80d37a2f8e8a47d651b1e82a97896b09/Chips_Sml_1200x900.jpg?h=600&w=800&fm=webp&fit=fill"
+  },
+  {
+    "item_id": 19,
+    "item_name": "Mashed Potato & Gravy",
+    "category": "Sides",
+    "description": "Creamy mashed potatoes with gravy",
+    "estimated_price": 23.90,
+    "currency": "ZAR",
+    "image_url": "https://images.ctfassets.net/0p42pznmbeec/16hT15F1AVhciJyE32xbGE/46765ea59881dfa8c6af3979bc97384c/Mash_and_Gravy_1200x900.jpg?h=600&w=800&fm=webp&fit=fill"
+  },
+  {
+    "item_id": 20,
+    "item_name": "Coleslaw",
+    "category": "Sides",
+    "description": "Shredded cabbage, carrots, and dressing",
+    "estimated_price": 19.90,
+    "currency": "ZAR",
+    "image_url": "https://images.ctfassets.net/0p42pznmbeec/1LvCxHqjAFXs2XFgAbQpnG/e5962ccda77bcb59e4f866c3c8fd8ef9/Coleslaw_1200x900.jpg?h=600&w=800&fm=webp&fit=fill"
+  },
+  {
+    "item_id": 24,
+    "item_name": "Krushers",
+    "category": "Desserts",
+    "description": "Frozen blended drink (various flavors)",
+    "estimated_price": 36.90,
+    "currency": "ZAR",
+    "image_url": "https://images.ctfassets.net/0p42pznmbeec/10qWIDZOjY4zT0WCtHkIHo/9d95a9ec5c1bd6f8842a56cab29eb408/Festive_Very_Berry_1200x900.png?h=600&w=800&fm=webp&fit=fill"
+  },
+  {
+    "item_id": 12,
+    "item_name": "Double Crunch Burger",
+    "category": "Burgers",
+    "description": "Zinger fillet, hashbrown, cheese and mayo",
+    "estimated_price": 59.90,
+    "currency": "ZAR",
+    "image_url": "https://images.ctfassets.net/0p42pznmbeec/5Ooc6ykHqWc94fhQwOAVng/8e02a4953ff8593127833b24d4ef7e52/Double_Crunch_1200x900.jpg?h=600&w=800&fm=webp&fit=fill"
+  },
+  {
+    "item_id": 4,
+    "item_name": "Streetwise Three with reg Pap",
+    "category": "Chicken",
+    "description": "Classic pressure-cooked chicken",
+    "estimated_price": 60.90,
+    "currency": "ZAR",
+    "image_url": "https://images.ctfassets.net/0p42pznmbeec/5fQiz7Qp0ygQ7JGz5L3z7O/95f74d233dad4578a6513511680c09fe/Streetwise_3_with_pap_1200x900.jpg?h=600&w=800&fm=webp&fit=fill"
+  },
+  {
+    "item_id": 13,
+    "item_name": "Double Crunch Burger",
+    "category": "Burgers",
+    "description": "Two crispy chicken fillets, cheese, and sauce",
+    "estimated_price": 59.90,
+    "currency": "ZAR",
+    "image_url": "https://images.ctfassets.net/0p42pznmbeec/5Ooc6ykHqWc94fhQwOAVng/8e02a4953ff8593127833b24d4ef7e52/Double_Crunch_1200x900.jpg?h=600&w=800&fm=webp&fit=fill"
+  },
+  {
+    "item_id": 17,
+    "item_name": "Chips (Medium)",
+    "category": "Sides",
+    "description": "Standard fried potatoes (medium)",
+    "estimated_price": 22.90,
+    "currency": "ZAR",
+    "image_url": "https://images.ctfassets.net/0p42pznmbeec/23emjPvgiS9FE3xT6UiBa/59601f5853018c497460a1b448ebf283/Chips_Reg_1200x900.jpg?h=600&w=800&fm=webp&fit=fill"
+  },
+  {
+    "item_id": 18,
+    "item_name": "Chips (Large)",
+    "category": "Sides",
+    "description": "Standard fried potatoes (large)",
+    "estimated_price": 25.90,
+    "currency": "ZAR",
+    "image_url": "https://images.ctfassets.net/0p42pznmbeec/5Zt1jvrey6zim41HKaarJr/a2e66c88ef0d3077bbb9c8848d6a682f/Chips_Lrg_1200x900.jpg?h=600&w=800&fm=webp&fit=fill"
+  },
+  {
+    "item_id": 14,
+    "item_name": "Classic Twister",
+    "category": "Wraps",
+    "description": "Chicken strips, lettuce, tomato, and sauce in a tortilla",
+    "estimated_price": 57.90,
+    "currency": "ZAR",
+    "image_url": "https://images.ctfassets.net/0p42pznmbeec/cNSFD7Dob48M7wzmvbfH9/3399aaba76e97da5ff5db9cdd865a3d1/Twister_Original_1200x900.jpg?h=600&w=800&fm=webp&fit=fill"
+  },
+  {
+    "item_id": 11,
+    "item_name": "New Colonel Burger",
+    "category": "Burgers",
+    "description": "Chicken fillet, lettuce, mayo on a sesame seed bun",
+    "estimated_price": 49.90,
+    "currency": "ZAR",
+    "image_url": "https://images.ctfassets.net/0p42pznmbeec/3BzuZ5x6SVHazSntPA4JyS/b4869ac2dc7b4c48fc3dcb33ab53de61/Colonel_Burger_1200x900.jpg?h=600&w=800&fm=webp&fit=fill"
+  },
+  {
+    "item_id": 15,
+    "item_name": "Dunked Crunch Master",
+    "category": "Wraps",
+    "description": "Twister with cheese sauce",
+    "estimated_price": 64.90,
+    "currency": "ZAR",
+    "image_url": "https://images.ctfassets.net/0p42pznmbeec/7GQiqNsRtotyfzhMDTaJzy/aa1a3ccf25f7e22f4b6be9bbc99b00f4/Dunked_Crunch_Master_-_1200x900.jpg?h=600&w=800&fm=webp&fit=fill"
+  },
+  {
+    "item_id": 9,
+    "item_name": "Zinger Burger",
+    "category": "Burgers",
+    "description": "Zinger fillet, lettuce, mayo on a sesame seed bun",
+    "estimated_price": 49.90,
+    "currency": "ZAR",
+    "image_url": "https://images.ctfassets.net/0p42pznmbeec/omYKvoXI7HuOgqyKpmqDF/2eaaff0e48602ef99a7c1accc55368a3/Zinger_Burger_1200x900.jpg?h=600&w=800&fm=webp&fit=fill"
+  },
+  {
+    "item_id": 8,
+    "item_name": "Fully Loaded Box With Buddy Bottle",
+    "category": "Chicken Meal",
+    "description": "Chicken piece, Zinger Wings, chips, roll",
+    "estimated_price": 99.90,
+    "currency": "ZAR",
+    "image_url": "https://images.ctfassets.net/0p42pznmbeec/31yPC9ryh5KT1pOdwEOOzG/522851302037bb653070365690af6a0a/FLBM_BUDDY_1200x900.jpg?h=600&w=800&fm=webp&fit=fill"
+  },
+  {
+    "item_id": 27,
+    "item_name": "Coca-Cola (Large)",
+    "category": "Drinks",
+    "description": "Soft drink",
+    "estimated_price": 20.90,
+    "currency": "ZAR",
+    "image_url": "https://images.ctfassets.net/0p42pznmbeec/4aDopfvPQCLmrWMe2jT0cx/eee995df195a4d37d73187136b603350/Coke_No_Sugar_Soda_Fountain_-_LRG_1200x900.jpg?h=600&w=800&fm=webp&fit=fill"
+  },
+  {
+    "item_id": 25,
+    "item_name": "Coca-Cola (Small)",
+    "category": "Drinks",
+    "description": "Soft drink",
+    "estimated_price": 14.90,
+    "currency": "ZAR",
+    "image_url": "https://images.ctfassets.net/0p42pznmbeec/35Gk9j1oJraUGYCMy4tZGf/6d3fb567fd23e895aadbb973f5a3aa43/Coke_No_Sugar_Soda_Fountain_-_SML_1200x900.jpg?h=600&w=800&fm=webp&fit=fill"
+  },
+  {
+    "item_id": 26,
+    "item_name": "Coca-Cola (Medium)",
+    "category": "Drinks",
+    "description": "Soft drink",
+    "estimated_price": 16.90,
+    "currency": "ZAR",
+    "image_url": "https://images.ctfassets.net/0p42pznmbeec/6AEoVweVrIfvCJMTdomSAi/254d83fd9740723cd2cacb5baa7687fb/Coke_No_Sugar_Soda_Fountain_-_REG_1200x900.jpg?h=600&w=800&fm=webp&fit=fill"
+  },
+  {
+    "item_id": 5,
+    "item_name": "4 Zinger Wings",
+    "category": "Sides",
+    "description": "Crispy, spicy chicken",
+    "estimated_price": 41.90,
+    "currency": "ZAR",
+    "image_url": "https://images.ctfassets.net/0p42pznmbeec/1ldcaNWdZVFbgVw75gJgVI/813161f54bd7b9a45569b45948b29eb6/Zinger_Wings_4pc_1200x900.jpg?h=600&w=800&fm=webp&fit=fill"
+  }
+]

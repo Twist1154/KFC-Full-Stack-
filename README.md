@@ -71,3 +71,63 @@ PostgreSQL Database
 
 ## 🎯 Summary  
 This application delivers a **modern, hands-free** ordering experience, replicating a real KFC drive-through but via a **web interface**. 🚗🎙️  
+
+---
+
+## 📜 Scripts & Setup  
+
+This project is powered by **Vite (React)** for the frontend and **Express.js** for the backend. Below are the key scripts used in `package.json`:  
+
+### **Main Scripts**  
+| Script          | Command                 | Description |
+|----------------|-------------------------|-------------|
+| **Start Frontend** | `npm run dev` | Starts the **Vite development server** |
+| **Build Frontend** | `npm run build` | Builds the production-ready frontend |
+| **Preview Frontend** | `npm run preview` | Serves the built frontend locally |
+| **Start Backend (Admin Panel)** | `npm run start:admin` | Runs the **Express.js admin server** |
+| **Run Linter** | `npm run lint` | Runs **ESLint** to check for code issues |
+
+---
+
+## 🛠️ Tech Stack  
+
+### **Frontend**  
+✅ **React (Vite) + MUI**  
+✅ **Axios** for API requests  
+✅ **RecordRTC** for audio capture  
+
+### **Backend**  
+✅ **Express.js** for server-side logic  
+✅ **PostgreSQL** with **Sequelize ORM**  
+✅ **UUID** for cart session tracking  
+
+### **Voice Recognition**  
+✅ **Houndify** for **speech-to-text**  
+
+### **Development Tools**  
+✅ **ESLint** for linting (`@eslint/js`, `eslint-plugin-react-hooks`, `eslint-plugin-react-refresh`)  
+✅ **CORS & Dotenv** for environment configurations  
+✅ **Vite + React Plugin** for frontend optimizations  
+
+---
+
+## 📌 How to Run the Project  
+
+1️⃣ **Clone the Repository:**  
+```sh
+git clone https://github.com/your-repo/kfc-drive-through.git
+cd kfc-drive-through
+```
+2️⃣ **Install Dependencies:**
+```sh
+npm install
+```
+3️⃣ **Start the Backend:**
+```sh 
+npm run start:admin
+```
+4️⃣ **Start the Frontend:**
+```sh
+npm run dev
+```
+---
